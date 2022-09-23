@@ -20,8 +20,13 @@ public class Sample {
 			
 			
 		}
+
 		
-		System.out.println("Iterate usuing enchanced for loop Cristiano");
+System.out.println("Iterate usuing enchanced for loop Cristiano");
+
+		
+System.out.println("Iterate usuing enchanced for loop kavin");
+
 	
 		for (Integer x : li) {
 			System.out.println(x);
